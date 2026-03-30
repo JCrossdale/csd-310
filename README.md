@@ -1,2 +1,2 @@
-# -csd-310
+# csd-310
 Database Dev. Class
